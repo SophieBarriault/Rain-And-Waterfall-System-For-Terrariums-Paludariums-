@@ -217,13 +217,13 @@ To deploy the medication dispenser software, run:
 <!-- FAQ -->
 ## :grey_question: FAQ
 
-- **Who is the project designed for?** 
+- **Why did you make this project?** 
 
-  + It’s primarily designed for elderly patients, individuals with memory challenges, high-risk patients, such as those recovering from an addition, under-staffed healthcare facilities, and caretakers who need remote monitoring tools for medication adherence/patients who live alone.
+  + Because I've always wanted to make my own terrarium, and I specifically wanted to make one that simulates a rainforest. 
 
-- **How is medication intake verified?** 
+- **What was your source of inspiration for this project?** 
 
-  + The image model uses a 3-step detection process:
+  + My sources of inspiration are the various raining rainforest terrariums and waterfall terrariums I saw people making online, as well as the Cloud Rainforest in Costa Rica. 
 
     1. Detects the presence of a pill
 
@@ -259,10 +259,9 @@ Project Link: [https://github.com/SophieBarriault/Dispenser/tree/main](https://g
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements 
 
-Useful resources and libraries that I've used in my project: 
+Sources of inspiration for my project: 
 
 
- - Link to all technical sources used: https://drive.google.com/drive/folders/1BSqckdxfqDh0ZibXCd9fYPzXVN9h-TSW?usp=drive_link 
  - [Shields.io](https://shields.io/)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
