@@ -23,11 +23,11 @@ All the resources I used for this project can be found in the following Google D
 **This project is not currently licensed for use or redistribution. All rights reserved.**
 
 
-[![Contributors](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-/graphs/contributors)
-[![Last Commit](https://img.shields.io/github/last-commit/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-Design)
-[![Forks](https://img.shields.io/github/forks/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-Design/network/members)
-[![Stars](https://img.shields.io/github/stars/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-Design/stargazers)
-[![Issues](https://img.shields.io/github/issues/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-Design/issues)
+[![Contributors](https://img.shields.io/github/last-commit/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-)
+[![Forks](https://img.shields.io/github/forks/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-/network/members)
+[![Stars](https://img.shields.io/github/stars/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-/stargazers)
+[![Issues](https://img.shields.io/github/issues/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-/issues)
 [![License](https://img.shields.io/github/license/SophieBarriault/Dispenser.svg)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-Design/blob/main/LICENSE)
 
 [View Demo](https://drive.google.com/file/d/1vlszCyn_WEQVgnMubaLK-mLIXZsSI-Hc/view?usp=sharing) ·
