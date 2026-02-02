@@ -23,7 +23,7 @@ All the resources I used for this project can be found in the following Google D
 **This project is not currently licensed for use or redistribution. All rights reserved.**
 
 
-[![Contributors](https://img.shields.io/github/contributors/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-Design/graphs/contributors)
+[![Contributors](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-/graphs/contributors)
 [![Last Commit](https://img.shields.io/github/last-commit/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-Design)
 [![Forks](https://img.shields.io/github/forks/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-Design/network/members)
 [![Stars](https://img.shields.io/github/stars/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-Design/stargazers)
