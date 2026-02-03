@@ -11,7 +11,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 <div align="center">
 
 
-![Logo](assets/Hardware_Image_1.png)
+![Logo](/Assets_/1.jpg)
 
 This project is an AI-powered automatic medication dispenser designed to improve medication adherence using a combination of image recognition, OCR, and natural language processing. The system is built for patients, caregivers, and healthcare providers to ensure safe and timely medication intake — all while being monitored remotely through a mobile app.
 
