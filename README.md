@@ -81,7 +81,7 @@ To create an accessible, intelligent system that ensures patients take the corre
 
 Click to watch the demo here! 
 
-[![Watch the Demo Video](assets/to_demo.png)](https://drive.google.com/file/d/1wByr87FT2HsipwZgwH-gzBg_70QS4TUb/view?usp=sharing) 
+[![Watch the Demo Video](assets/to_demo.png)](https://drive.google.com/file/d/1vlszCyn_WEQVgnMubaLK-mLIXZsSI-Hc/view?usp=sharing) 
 
 
 ---
