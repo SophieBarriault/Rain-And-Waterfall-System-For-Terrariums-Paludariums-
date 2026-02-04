@@ -81,7 +81,7 @@ To create an accessible, intelligent system that ensures patients take the corre
 
 Click to watch the demo of the rain and waterfall system here! 
 
-[![Watch the Demo Video](assets/to_demo.png)](https://drive.google.com/file/d/1vlszCyn_WEQVgnMubaLK-mLIXZsSI-Hc/view?usp=sharing) 
+[![Watch the Demo Video](Assets_/10.jpg)](https://drive.google.com/file/d/1vlszCyn_WEQVgnMubaLK-mLIXZsSI-Hc/view?usp=sharing) 
 
 
 ---
