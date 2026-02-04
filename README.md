@@ -89,18 +89,18 @@ Click to watch the demo of the rain and waterfall system here!
 
 ## 🌟 Photo Gallery 
 
-(Assets_/1.jpg) 
-(Assets_/2.jpg) 
-(Assets_/3.jpg)
-(Assets_/4.jpg)
-(Assets_/5.jpg)
-(Assets_/6.jpg)
-(Assets_/7.jpg)
-(Assets_/8.jpg)
-(Assets_/9.jpg)
-(Assets_/10.jpg)
-(Assets_/11.jpg)
-(Assets_/13.jpg)
+[image](Assets_/1.jpg) 
+[image](Assets_/2.jpg) 
+[image](Assets_/3.jpg)
+[image](Assets_/4.jpg)
+[image](Assets_/5.jpg)
+[image](Assets_/6.jpg)
+[image](Assets_/7.jpg)
+[image](Assets_/8.jpg)
+[image](Assets_/9.jpg)
+[image](Assets_/10.jpg)
+[image](Assets_/11.jpg)
+[image](Assets_/13.jpg)
 
 
 --- 
