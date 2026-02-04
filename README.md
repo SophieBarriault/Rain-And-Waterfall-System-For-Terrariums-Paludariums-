@@ -43,14 +43,7 @@ All the resources I used for this project can be found in the following Google D
 # 📔 Table of Contents
 
 - [About the Project](#-about-the-project)
-  - [Demo Video](#-screenshots)
-  - [Tech Stack](#-tech-stack)
-  - [Features](#-features)
-  - [Color Reference](#-color-reference) 
-- [Getting Started](#-getting-started)
-  - [Prerequisites](#-prerequisites) 
-  - [Run Locally](#-run-locally)
-  - [Deployment](#-deployment) 
+  - [Demo Video](#-screenshots) 
 - [FAQ](#-faq) 
 - [Contact](#-contact)
 - [Acknowledgements](#-acknowledgements-) 
@@ -82,19 +75,6 @@ To create an accessible, intelligent system that ensures patients take the corre
  - Video evidence recording for accountability and patient monitoring. 
 
 
-
-**Recognition:**  
-
- - Filed for a provisional patent for the design and idea December 2024 
-
- - Selected for the Massachusetts Science & Engineering Fair (MSEF) Regional Round
-
- - Advanced to the MSEF State Level Competition as a Finalist
-
- - Praised for its real-world impact, interdisciplinary approach, and scalable potential
-
-
-
 ---
 
 ### 📷 Demo Video 
@@ -105,114 +85,6 @@ Click to watch the demo here!
 
 
 ---
-
-### 👾 Tech Stack
-
-- **Python** – Core programming language for the application
-
-- **Toga** – GUI framework for building cross-platform desktop and mobile apps 
-- **Buildozer** - GUI framework for both Android and IOS compatibility 
-
-- **OpenCV** – Real-time image processing and integration with camera for pill verification
-
-- **Tesseract OCR** – Optical Character Recognition for extracting text from prescriptions
-
-- **spaCy** – Custom Named Entity Recognition (NER) model to extract dosage/frequency info
-
-- **YOLOv8** – Object detection model to monitor pill intake and hand movement
-
-- **Flask** – Lightweight server to handle requests between the app and ML models
-
-- **PySerial** – Communication between the Python app and the Arduino board
-
-- **Arduino** – Controls pill dispensing mechanism (via servo motors, etc.)
-
-- **Git & GitHub** – Version control and project collaboration
-
----
-
-### 🎯 Features
-
-- **Automated Pill Dispensing** 
-  Dispenses the correct medication at the right time using an Arduino-controlled mechanism, reducing the risk of missed or incorrect doses.
-
-- **Real-Time Pill Intake Monitoring** 
-  Utilizes a YOLOv5-based image recognition system to track the sequence: pill present → pill taken → hand empty — confirming successful medication intake.
-
-- **Custom OCR Processing** 
-  Uses Tesseract OCR to extract medication names, dosages, and instructions from images of prescriptions or labels.
-
-- **Medical NER Model** 
-  A custom-trained spaCy Named Entity Recognition (NER) model processes OCR output to identify key medical information like dosage frequency and medication schedules.
-
-- **Cross-Platform Interface (Toga + Buildozer)** 
-  Built using the Toga framework for both desktop and mobile (Android and IOS) platforms, allowing caregivers and users to interact with the system easily.
-
-- **Flask-Based Communication** 
-  A lightweight Flask server connects the app to backend ML models, ensuring fast and reliable processing of user input and image recognition results.
-
-- **Emergency Alert System** 
-  If a user fails to take their medication within a set time frame, the system plays an audio alert and notifies a connected caregiver.
-
-- **Time-Based Triggers** 
-  The application runs on a schedule, automatically activating the camera and dispenser based on predefined medication times.
-
-- **PDF Report Generation** 
-  Extracted text from prescriptions is automatically saved and compiled into a downloadable PDF for easy recordkeeping and sharing with healthcare providers.
-
-
---- 
-
-
-<!-- Getting Started -->
-## 	:toolbox: Getting Started
-
-<!-- Prerequisites -->
-### :bangbang: Prerequisites
-
-This project uses a variety of modules and libraries 
-
-```bash
- cd Dispenser 
- pip install -r requirements.txt 
-```
-<!-- Run Locally -->
-### :running: Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/SophieBarriault/Dispenser.git 
-```
-
-Go to the project directory
-
-```bash
-  cd Dispenser 
-```
-
-Install dependencies
-
-```bash 
-  pip install -r requirements.txt 
-```
-
-<!-- Deployment -->
-### :triangular_flag_on_post: Deployment
-
-To deploy the mobile application simulation software, run: 
-
-```bash 
-  cd Dispenser/App/andriod_app
-  python app.py 
-```
-
-To deploy the medication dispenser software, run: 
-
-```bash 
-  cd Dispenser/App
-  python App_For_Monitering.py 
-``` 
 
 <!-- FAQ -->
 ## :grey_question: FAQ
@@ -265,7 +137,10 @@ Sources of inspiration for my project:
  - [Shields.io](https://shields.io/)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
- - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+ - [Readme Template](https://github.com/othneildrew/Best-README-Template)
+ - [Lang diy - Rainfall Terrarium](https://www.youtube.com/watch?v=4Qb6_zVYcik)
+ - [AntsCanada - Cloud Rainforest Vivrarium](https://www.youtube.com/watch?v=ZUSEdRb3yVk&t=944s)
+ - [Lang diy - Tabletop Terrarium With Waterfall](https://www.youtube.com/watch?v=P3Hv-mUxCJU) 
 
 
 
