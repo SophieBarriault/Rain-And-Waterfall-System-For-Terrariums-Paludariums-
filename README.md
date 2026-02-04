@@ -43,7 +43,8 @@ All the resources I used for this project can be found in the following Google D
 # 📔 Table of Contents
 
 - [About the Project](#-about-the-project)
-  - [Demo Video](#-screenshots) 
+  - [Demo Video](#-screenshots)
+- [Photo Gallery](#-photo-gallery)
 - [FAQ](#-faq) 
 - [Contact](#-contact)
 - [Acknowledgements](#-acknowledgements-) 
@@ -84,7 +85,25 @@ Click to watch the demo of the rain and waterfall system here!
 [![Watch the Demo Video](Assets_/10.jpg)](https://drive.google.com/file/d/1vlszCyn_WEQVgnMubaLK-mLIXZsSI-Hc/view?usp=sharing) 
 
 
----
+--- 
+
+## 🌟 Photo Gallery 
+
+(Assets_/1.jpg) 
+(Assets_/2.jpg) 
+(Assets_/3.jpg)
+(Assets_/4.jpg)
+(Assets_/5.jpg)
+(Assets_/6.jpg)
+(Assets_/7.jpg)
+(Assets_/8.jpg)
+(Assets_/9.jpg)
+(Assets_/10.jpg)
+(Assets_/11.jpg)
+(Assets_/13.jpg)
+
+
+--- 
 
 <!-- FAQ -->
 ## :grey_question: FAQ
