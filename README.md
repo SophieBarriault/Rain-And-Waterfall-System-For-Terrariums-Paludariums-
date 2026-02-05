@@ -54,27 +54,27 @@ All the resources I used for this project can be found in the following Google D
 
 ## 🌟 About the Project
 
-This project presents an AI-powered automatic medication dispenser designed to improve medication adherence and safety for patients. Initially developed for the Massachusetts Science & Engineering Fair (MSEF), the device advanced to the State Level Finalist round, where it was recognized for its innovative integration of machine learning, computer vision, and IoT technologies in a healthcare setting. 
+This project is a custom-engineered terrarium system designed to actively simulate rainforest conditions through controlled rainfall, water circulation, and humidity regulation. The system replicates natural precipitation cycles by delivering evenly distributed “rain” across the enclosure while a continuous waterfall recirculates water through the substrate, mimicking rainforest runoff and groundwater flow.
 
+I designed and built a dual rain-and-waterfall mechanism using a concealed pump and custom plumbing routed through 3D-printed and woodworked components. The rainfall system maintains consistent moisture for plants and soil, while the waterfall promotes airflow, stabilizes humidity, and supports a self-sustaining microclimate. Illuminated protective housings integrate the mechanical and electrical components into the environment while allowing for safe operation and easy maintenance.
+
+The design required careful control of flow rates, drainage, and splash patterns to prevent oversaturation while preserving the dynamic water movement characteristic of rainforest ecosystems. Through iterative CAD design, prototyping, and testing, I optimized the system to balance biological needs with mechanical efficiency.
+
+This terrarium functions as both a living rainforest micro-ecosystem and an engineering platform, combining environmental science, mechanical design, and fabrication to recreate natural hydrological processes at a small scale. 
 
 **Goal:**
 
-To create an accessible, intelligent system that ensures patients take the correct medications at the correct times — reducing errors, improving adherence, and offering peace of mind for caregivers and family members. 
+To create a terrarium that incorporates both land and water with a waterfall and rain system in order to better simulate the environment of a rainforest. Additionally, a light system was added to help with the growth of the plants. 
 
 
 
 **Core Features:**
 
- - Image recognition model to verify whether medication has been taken correctly.
-
- - OCR + NLP (Named Entity Recognition) to extract dosage instructions from prescription labels.
-
- - Arduino-controlled dispensing system triggered by AI verification and scheduled reminders.
-
- - Mobile + Desktop interface (via Toga framework) for caregiver monitoring and remote updates.
-
- - Video evidence recording for accountability and patient monitoring. 
-
+ - A combined waterfall and rain system
+ - Native and non-native plant species:
+ - A paludrium design, with both land and a water feature. \
+ - Materials used: 
+   - 
 
 ---
 
@@ -89,18 +89,18 @@ Click to watch the demo of the rain and waterfall system here!
 
 ## 🌟 Photo Gallery 
 
-[image](Assets_/1.jpg) 
-[image](Assets_/2.jpg) 
-[image](Assets_/3.jpg)
-[image](Assets_/4.jpg)
-[image](Assets_/5.jpg)
-[image](Assets_/6.jpg)
-[image](Assets_/7.jpg)
-[image](Assets_/8.jpg)
-[image](Assets_/9.jpg)
-[image](Assets_/10.jpg)
-[image](Assets_/11.jpg)
-[image](Assets_/13.jpg)
+[Front view, decorated](Assets_/1.jpg) 
+[image 2](Assets_/2.jpg) 
+[image 3](Assets_/3.jpg)
+[image 4](Assets_/4.jpg)
+[image 5](Assets_/5.jpg)
+[image 6](Assets_/6.jpg)
+[image 7](Assets_/7.jpg)
+[image 8](Assets_/8.jpg)
+[image 9](Assets_/9.jpg)
+[image 10](Assets_/10.jpg)
+[image 11](Assets_/11.jpg)
+[image 12](Assets_/13.jpg)
 
 
 --- 
@@ -114,31 +114,8 @@ Click to watch the demo of the rain and waterfall system here!
 
 - **What was your source of inspiration for this project?** 
 
-  + My sources of inspiration are the various raining rainforest terrariums and waterfall terrariums I saw people making online, as well as the Cloud Rainforest in Costa Rica. 
-
-    1. Detects the presence of a pill
-
-    2. Checks if it’s picked up
-
-    3. Confirms the hand is empty (pill was consumed). 
-      If not, an alert is triggered. 
-
-
-- **How does the dispenser work?** 
-
-  + A built-in camera detects if a pill is taken using a YOLO image recognition model.
-
-  + OCR and NER extract dosage info from prescription labels.
-
-  + The system activates an Arduino-controlled dispenser and verifies intake.
-
-  + Caretakers can view updates via a mobile app.
-
-
-
-
-
- 
+  + My sources of inspiration are the various raining rainforest terrariums and waterfall terrariums I saw people making online, as well as the Cloud Rainforest in Costa Rica.
+     
 <!-- Contact -->
 ## :handshake: Contact
 
